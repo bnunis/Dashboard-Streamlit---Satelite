@@ -1,4 +1,4 @@
-# Dashboard-Streamlit---Satetile 
+# Dashboard Streamlit Satetile 
 
 Esse Script faz a intregação de uma Planilha do Google Sheets via API e transforma os dados dessa planilha em um DataFrame, onde os dados são analisados e visualizados via um Dashboard feito através da Biblioteca Streamlit.
 
